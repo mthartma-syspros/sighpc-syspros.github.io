@@ -10,7 +10,7 @@
 ### Treasurer - John Legato
 ### Secretary - Sam Liston (University of Utah - Center for High Performance Computing)
 ### Membership Chair - Ajinkya Kadam
-### Member-at-large - Adam Hough (Shell)
+### Member-at-large - Adam Hough (Microsoft)
 ### Member-at-large - Joseph Tippit (Lambda)
 
 ----
@@ -19,7 +19,7 @@
 ### Chair - Betsy Hillery (Purdue University)
 ### Vice Chair - John Blaas (Lambda)
 ### Treasurer - John Legato
-### Secretary - Adam Hough (Shell)
+### Secretary - Adam Hough (Shell / Microsoft)
 ### Membership Chair - Jay Blair (ASRC Federal)
 ### Member-at-large - David Clifton (Ansys)
 ### Member-at-large - Mike Hartman (Stanford)
