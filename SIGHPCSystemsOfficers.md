@@ -9,7 +9,7 @@
 ### Vice Chair - Andy Keen (Michigan State University)
 ### Treasurer - John Legato
 ### Secretary - Sam Liston (University of Utah - Center for High Performance Computing)
-### Membership Chair - Ajinkya Kadam
+### Membership Chair - Ajinkya Kadam (Microsoft)
 ### Member-at-large - Adam Hough (Microsoft)
 ### Member-at-large - Joseph Tippit (Lambda)
 
